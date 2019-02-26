@@ -1,0 +1,16 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/bin": true,
+    "**/obj": true,
+    "**/Api/App/published": true,
+    "**/Api/App/log": true,
+    "**/main.js": true,
+    "**/node_modules": true
+  },
+  "git.ignoreLimitWarning": true
+}

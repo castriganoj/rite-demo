@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "paths": { "*": ["types/*"] },
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "target": "es6",
+    "module": "commonjs",
+    "jsx": "react",
+    "allowJs": true,
+    "baseUrl": "./",
+    "skipLibCheck": true
+  },
+  "files": ["./boot.tsx"],
+  "exclude": ["node_modules"]
+}
