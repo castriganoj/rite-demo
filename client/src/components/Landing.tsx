@@ -54,7 +54,7 @@ class Landing extends Component<LandingProps> {
                 {({ inView, ref }: any) => (
                   <div ref={ref}>
                     <Fade in={inView} timeout={2000}>
-                      <Typography variant="h3">Let's put some stuff here!</Typography>
+                      <Typography variant="h3">Welcome to Dakota Software!</Typography>
                     </Fade>
                   </div>
                 )}
